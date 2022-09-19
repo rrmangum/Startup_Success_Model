@@ -20,13 +20,16 @@ This analysis uses python Python and the following libraries:
 
 2. Clone the repo to your local machine
 
-3. Open the Company_Growth_Analysis Jupyter Notebook with Google Colab
+3. Run the following command in your terminal or gitbash:
+```python
+pip install -r requirements.txt
+```
 
 ---
 
 ## Usage
 
-This analysis is not meant as financial advice, and is purely a growth analysis for a company.
+These models are free to use by any interested persons.
 
 ---
 
