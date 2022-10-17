@@ -1,5 +1,4 @@
 pandas
 pathlib
-tensorflow
-keras
+numpy
 sklearn
